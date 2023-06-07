@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string-array name="TODO">
+        <item>Add a Task</item>
+        <item>Remove a Task</item>
+    </string-array>
+    <string name="Add">ADD</string>
+    <string name="Delete">DELETE</string>
+    <string name="Clear">CLEAR</string>
+
+</resources>
